@@ -49,7 +49,7 @@ This repository contains two mini labs:
 4. Success when packets not destined for attacker are visible.
 ---
 
- 💡 Solution >> Enable Port Security  + Reserve MAC Address of Netowrk's PCs on the Switch Table
+ 💡 Solution >> Enable Port Security  + Reserve MAC Address of Netowrk's PCs on the Switch Table (CAM Table)
 ---
 
 
