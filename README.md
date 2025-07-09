@@ -47,8 +47,11 @@ This repository contains two mini labs:
    ```
 
 4. Success when packets not destined for attacker are visible.
-
 ---
+
+ 💡 Solution >> Enable Port Security  + Reserve MAC Address of Netowrk's PCs on the Switch Table
+---
+
 
 ## 🧪 Lab 2: ARP Poisoning
 
@@ -77,7 +80,7 @@ This repository contains two mini labs:
 
 ---
 
-
+💡 Solution >> Enable Dynamic ARP Inspection on the switch (DAI)
 ---
 
 ## 📬 Author
